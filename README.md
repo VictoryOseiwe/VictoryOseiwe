@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on my web development skills
-- 🌱 I’m currently learning Backend Development
+- 🌱 I’m currently learning Full-Stack Web Development
 - 👯 I’m looking to collaborate on this space
 - 🤔 I’m looking for help with Special Functions
 - 💬 Ask me about Web Development
