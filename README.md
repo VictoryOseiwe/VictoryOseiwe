@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Full Stack Dev | Content Creator | Cs Student @ UNN</h2>
+<p align="center" font-weight: bold"><b>Full Stack Dev | Content Creator | Cs Student @ UNN</b></p>
 
 ![Profile view counter](https://komarev.com/ghpvc/?username=victoryoseiwe)
 
